@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Projects at Laboratorio de Informática y Computación Aplicada](https://github.com/Grupo-de-Computacion-de-la-FI-UNER)
 
-- 📫 How to reach me **javier.diaz@uner.edu.ar**
+- 📫 How to reach me **javier DOT diaz AT uner DOT edu DOT ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
