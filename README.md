@@ -14,6 +14,8 @@
 <a href="https://fb.com/javierediazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javierediazz" height="30" width="40" /></a>
 <a href="https://instagram.com/javierediazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javierediazz" height="30" width="40" /></a>
 <a href="https://medium.com/@javiereduardodiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@javiereduardodiaz" height="30" width="40" /></a>
+  
+<a href="https://www.researchgate.net/profile/Javier-Diaz-Zamboni" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:ResearchGate_icon_SVG.svg" alt="javier-diaz-zamboni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
