@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier E. Diaz Zamboni</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dzjavier&label=Profile%20views&color=0e75b6&style=flat" alt="dzjavier" /> </p>
+
 
 - 🔭 I’m currently working on [Projects at Laboratorio de Informática y Computación Aplicada](https://github.com/FIUNER-LICA)
 
